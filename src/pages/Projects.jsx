@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import image1 from "../assets/project-1.png";
-import image2 from "../assets/project-2.png";
-import image3 from "../assets/project-3.png";
+import image1 from "../assets/port1.png";
+import image3 from "../assets/port3.png";
+import image2 from "../assets/port2.png";
 import { Link } from "react-router-dom";
 
 const projectData = [
